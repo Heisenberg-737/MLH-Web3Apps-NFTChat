@@ -28,10 +28,42 @@
   color: #61dafb;
 }
 
+.headingMain {
+  background-image: url(/public/assets/dialog.png);
+  background-position: 2.5em 1em;
+  background-repeat: no-repeat;
+  background-size: auto 2em;
+  margin-top: 0;
+  align-self: left;
+  padding: 2.5em 0 0;
+  text-align: center;
+  font-size: 4em;
+  text-align: left;
+}
+
+
+.main-line {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
+}
+
+.text-nft {
+  margin-right: 2rem;
+  color: #0097B2;
+  font-weight: 600;
+}
+
+.subtext-nft {
+  margin-right: 5rem;
+  color: #0097B2;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
