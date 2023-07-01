@@ -19,7 +19,7 @@
       "aiPlayground": true
     },
     "_version": 1.2,
-    "updatedAt": "2023-07-01T21:30:42.986Z",
+    "updatedAt": "2023-07-01T22:37:06.098Z",
     "updatedBy": 145492,
     "creatorID": 145492,
     "prototype": {
@@ -562,7 +562,7 @@
         ]
       }
     },
-    "liveVersion": "64a0982de70a190007b2adec",
+    "liveVersion": "64a0aa80e70a190007b2ae01",
     "createdAt": "2023-06-29T18:16:41.000Z"
   },
   "version": {
@@ -2392,7 +2392,7 @@
               {
                 "type": "advance",
                 "variable": "appName",
-                "expression": "\"MintChat\""
+                "expression": "\"NFTChat\""
               }
             ],
             "title": "Set App Name",
