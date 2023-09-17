@@ -19,7 +19,7 @@ NFTChat is developing an AI-driven chatbot that makes the users aware of web3 an
 - NFTChat is an AI-driven blockchain chatbot using Voiceflow that simplifies the process of minting NFTs (Non-Fungible Tokens) and storing images on IPFS.
 - Through the utilization of Voiceflow, Verbwire, web3.Storage, OpenAI's GPT4 and Stable Diffusion APIs, NFTChat guides users step-by-step throughout the minting process.
 - Users are required to provide necessary details such as name, description, wallet address, and image URL. Alternatively, they can use Generative AI to mint an NFT using Stable Diffusion.
-- Once all information is provided, NFTChat proceeds to mint the NFT and provide relevant details such as transaction hash and ID. It also offers URLs for users to view their NFT on block explorers and OpenSea. NFTChat is compatible with 14 blockchain networks and eliminates the need for users to navigate complex blockchain systems or switch between platforms.
+- Once all information is provided, NFTChat proceeds to mint the NFT and provide relevant details such as transaction hash and ID. It also offers URLs for users to view their NFT on Block Explorers and OpenSea. NFTChat is compatible with 14 blockchain networks and eliminates the need for users to navigate complex blockchain systems or switch between platforms.
 - Users can also use groundbreaking GPT4 to know more about Blockchain and have their queries cleared.
 - By leveraging AI-driven chatbots and cutting-edge APIs, NFTChat ensures that minting NFTs becomes easy and accessible for everyone involved.
 
@@ -53,16 +53,6 @@ An AI-powered chatbot that can perform these highly convoluted trading tasks wit
 - Working on NFTChat taught the team how to manage time efficiently and operate under tight deadlines.
 - Additionally, they recognized the significance of education and outreach efforts when it comes to cryptocurrencies and blockchain technology.
 - This experience highlighted the importance of spreading knowledge about these topics among wider audiences.
-
-## Why do we deserve to win? 🏆
-
-NFTChat should win multiple awards at Web3Apps, hosted by MLH. Following are the challenges we are participating in:
-- **Best Web3 Educational Hack**: Our platform simplifies the process of minting and generating NFTs, enabling individuals without technical knowledge to participate. Through our chatbot's natural language processing capabilities and Generative AI capabilities, individuals of all technical backgrounds can effortlessly engage with our platform. We have also used OpenAI's GPT4 to empower individuals to learn and understand the concepts, tools, and possibilities of Web3, NFT and Blockchain technology.
-- **Most Creative Use of GitHub**: Each member of our team has signed up for GitHub Global Campus and we are using the GitHub repository to host our hackathon project’s code. We also have a detailed README and a GitHub deployment!
-- **Best Domain Name from GoDaddy Registry**: We have deployed our ReactJS app on Vercel and have used GoDaddy's domain [www.nftchat.tv](www.nftchat.tv) to host our platform.
-- **Best Use of Hedera**: We have utilized Hedera Consensus Service's API to mint an NFT effortlessly. We believe minting an NFT on Hedera has never been this easier.
-
-In general, our project, NFTChat, distinguishes itself by addressing the challenge of accessibility and user-friendliness when it comes to engaging with cryptocurrencies and blockchain technology. We firmly believe that our creative implementation of technology and commitment to accessibility make NFTChat an exceptional project that merits acknowledgement in the Web3Apps hackathon.
 
 ## What's next in store for NFTChat? 🌟
 - NFTChat's goal is to enhance the accessibility of cryptocurrency and blockchain technology by incorporating user-friendly features, tutorials and information, making it the go-to platform for everyone, regardless of their technical background.
